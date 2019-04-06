@@ -1,9 +1,10 @@
+//Andrew Beshay
+//COMP3331 Assignment
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
 #include <errno.h>
-
-
 
 int main(int argc, char **argv) {
 
