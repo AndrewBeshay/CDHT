@@ -1,4 +1,4 @@
-//Author: Andrew Beshay, z5019760
+//Author: Andrew Beshay
 //Assignment for COMP3331 - CDHT
 #include <stdio.h>
 #include <stdlib.h>
